@@ -3,7 +3,6 @@
 ## Usage
 1. Run docker-compose up in root directory
 2. Run scripts/enable_transaction_logging.sql as root user on DB to enable transaction logging.
-3. Run MySQLBatchingApplicationTest and see that latest query contains all batched values in it.
 
 ## Dockerized database credentials
 
